@@ -1,0 +1,4 @@
+Arduino Uno or ESP32
+HC-05 Bluetooth Module
+Relay Module
+Arduino IDE
